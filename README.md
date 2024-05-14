@@ -1,0 +1,1 @@
+This is a simple application to highlight foundation skills in C#. The application has a 2 text box's one for the title and one for the message. Then it has a table that stores your notes, and then you can retrieve those notes to edit or review at a later time. 
